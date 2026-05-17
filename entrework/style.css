@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  background: #0f0f0f;
+  color: white;
+  text-align: center;
+}
+
+#postBox {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+}
+
+button {
+  padding: 10px;
+  background: yellow;
+  border: none;
+  cursor: pointer;
+}
+
+#feed {
+  margin-top: 20px;
+}
+.post {
+  background: #1f1f1f;
+  margin: 10px auto;
+  padding: 10px;
+  width: 60%;
+}
